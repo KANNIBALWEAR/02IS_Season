@@ -12,6 +12,7 @@ Description.
 
 Description.
 
+
 ![GALLERY QUAD](/assets/template_visuals/temp-quad-gallery.png)
 
 ### Table of Contents
