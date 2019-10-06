@@ -1,7 +1,7 @@
 [Season Cover]
 
 <a name="intro"></a>
-# INDEPENDENT STRAIN - KANNIBAL SEASON
+# INDEPENDENT STRAIN - KANNIBAL SEASON (3rd Season) Time Destination: 2022
 Independent Strain - Kannibal Wear Season 
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
